@@ -5,7 +5,7 @@ scipy==1.2.1
 llist==0.4
 pandas==0.23.4
 bokeh==1.4.0
-numpy==1.16.4
+numpy==1.22.0
 pyinter==0.2.0
 matplotlib==2.2.5
 constraint==0.4.1
